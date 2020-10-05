@@ -1,0 +1,51 @@
+﻿<Window x:Class="Journal.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Journal"
+        mc:Ignorable="d"
+        Title="UnrealWindow" Height="415" Width="534.9" x:Name="MyWindow"
+        WindowStartupLocation="CenterScreen"
+        AllowsTransparency="True" Background="Transparent" WindowStyle="None">
+    <Grid>
+        <Border Width="auto" Height="auto" BorderBrush="Black" BorderThickness="2"
+                CornerRadius="30,30,30,30" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA796F5" Offset="0.201"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="411"/>
+                </Grid.RowDefinitions>
+                <TextBlock FontWeight="Bold" Padding="5" FontSize="48" Margin="0,10,0,327" FontFamily="Gabriola" Height="74" Width="531" VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Black"><Run Text="𝄖𝄖Авторизация𝄖𝄖"/></TextBlock>
+                <Image Source="/ImageFolder/lock.png" HorizontalAlignment="Left" Height="56" Margin="127,176,0,0" VerticalAlignment="Top" Width="56"/>
+                <Image Source="/ImageFolder/person.png" HorizontalAlignment="Left" Height="77" Margin="117,91,0,0" VerticalAlignment="Top" Width="81" RenderTransformOrigin="1.119,0.491"/>
+                <TextBox x:Name="loginField" HorizontalAlignment="Left" Height="37" Margin="198,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="24" CaretBrush="Black" BorderBrush="Black"/>
+                <PasswordBox x:Name="passwordField" HorizontalAlignment="Left" Margin="197,189,0,0" VerticalAlignment="Top" Width="201" Height="38" FontSize="24" BorderBrush="Black"/>
+                <Button x:Name="Close" FontWeight="Bold" Content="❌" Foreground="Red" FontSize="20" Background="Transparent" Margin="486,8,13,372" BorderBrush="{x:Null}" Click="Close_Click" IsCancel="True" AutomationProperties.Name="Close" Cursor="Hand" RenderTransformOrigin="0.5,0.5"  >
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="-1"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button x:Name="InfoButton" Style="{StaticResource info}" Click="Info_Click" Cursor="Hand" Margin="442,331,-3,6" RenderTransformOrigin="0.5,0.5"/>
+                <TextBlock FontWeight="Bold" Padding="5" FontSize="48" Margin="0,318,0,43" FontFamily="Gabriola" Height="50" Width="531" VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" Foreground="Black"><Run Text="𝄖𝄖𝄖𝄖𝄖𝄖𝄖𝄖𝄖𝄖"/></TextBlock>
+                <Button x:Name="havenoacc" FontWeight="Bold" Foreground ="Black" Background="{x:Null}" BorderBrush="{x:Null}" Content="Еще нет аккаунта? Зарегистрируйтесь" Margin="108,358,115,20" FontSize="22"  FontFamily="Gabriola" Click="Havenoacc_Click" Cursor="Hand"/>
+                <Button Background="#FFF7A2FF" FontWeight="Bold" HorizontalAlignment="Left" Margin="168,258,0,0" VerticalAlignment="Top" Width="191" Height="59" FontSize="40" FontFamily="Gabriola" Click="Button_Click" Cursor="Hand" BorderBrush="Black">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Войти"/>
+                        <Image Source="/ImageFolder/Log in.png"  Margin="5,0,0,0" Width="53"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

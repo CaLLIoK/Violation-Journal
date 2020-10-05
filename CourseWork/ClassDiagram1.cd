@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWork.AddJournalEntry" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAIAAAAACAAAAAAAAAQAEA=</HashCode>
+      <FileName>AddJournalEntry.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.AddViolation" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAIAAAAACAAAAAAAAAQAEA=</HashCode>
+      <FileName>AddViolation.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.AddViolator" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAIAAAAACAAAAAAAAAQAEA=</HashCode>
+      <FileName>AddViolator.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.AddViolatorCar" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAIAAAAACAAAAAAAAAQAEA=</HashCode>
+      <FileName>AddViolatorCar.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ChangeAccountData" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ChangeAccountData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ChangeJournalEntry" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAQAMAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>ChangeJournalEntry.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ChangeViolationsData" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAQEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ChangeViolationsData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ChangeViolatorData" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAQEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ChangeViolatorData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ChangeViolatorsCars" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAQEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ChangeViolatorsCars.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.DeleteViolation" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAMAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>DeleteViolation.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.DeleteViolator" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAMAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>DeleteViolator.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.DeleteViolatorCar" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAMAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>DeleteViolatorCar.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ChooseReportPeriod" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAQAAAAIAAAAACAAAAAAAAgQAAA=</HashCode>
+      <FileName>ChooseReportPeriod.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.FIndViolatorViolations" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAAQAEA=</HashCode>
+      <FileName>FIndViolatorViolations.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.JournalEntriesResult" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAAAIAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>JournalEntriesResult.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.LoginWindow" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>LoginWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.RegistrationWindow" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>RegistrationWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.MainMenuEmployee" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAQAIgAAAAACkQEAAAAAAIAAAAAEQAIABAAAITAAA=</HashCode>
+      <FileName>MainMenuEmployee.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.MainMenuGuest" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>MainMenuGuest.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.SearchInfo" Collapsed="true">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAEAAAAAAYAAAQAAAAAAAAAAgQAEA=</HashCode>
+      <FileName>SearchInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.SearchJournalEntries" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>SearchJournalEntries.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.SearchViolations" Collapsed="true">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>SearchViolations.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.SearchViolators" Collapsed="true">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>SearchViolators.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.SearchViolatorsCars" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAEIAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>SearchViolatorsCars.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ShowViolatorViolations" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAAAIAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>ShowViolatorViolations.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ViolationsSearchResults" Collapsed="true">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ViolationsSearchResults.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.UpdateCarsData" Collapsed="true">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAEAAAAAAIAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>UpdateCarsData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.UpdateJournalEntry" Collapsed="true">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAEAAAAAAIAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>UpdateJournalEntry.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.UpdateViolationsData" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAEAAAAAAIAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>UpdateViolationsData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.UpdateViolatorData" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAEAAAAAAIAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>UpdateViolatorData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.StatusConfirmation" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAQAAAAIAAAAAAEAAAAAAAAQAAA=</HashCode>
+      <FileName>StatusConfirmation.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ViolatorsCarsSearchResult" Collapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ViolatorsCarsSearchResult.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.ViolatorsSearchResults" Collapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAEAAAAAEIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ViolatorsSearchResults.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.WelcomeWindow" Collapsed="true">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAEAAAAAAIAAAAAABAAAAAAAAQAAA=</HashCode>
+      <FileName>WelcomeWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.CheckCar" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>CheckCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.CheckJournalEntry" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CheckJournalEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.CheckViolation" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CheckViolation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.CheckViolator" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAABAAEAAAAAABCAEAAAAAAgQAAAA=</HashCode>
+      <FileName>CheckViolator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
